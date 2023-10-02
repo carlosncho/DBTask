@@ -1,0 +1,7 @@
+{
+  "name": "ejercicioSQL",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
